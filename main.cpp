@@ -1,10 +1,12 @@
 #include <iostream>
 #include <vector>
-#include "SearchInsertPosition.h"
+#include <string>
+#include "LengthOfLastWord.h"
 using namespace std;
+
 int main() {
-	vector<int> data = { 1,3,5,6 };
-	SearchInsertPosition sol;
-	cout << sol.searchInsert(data, 4) << endl;
+	string s = "ad 23d 421a2  ";
+	LengthOfLastWord sol;
+	cout << sol.lengthOfLastWord(s) << endl;
 	return 0;
 }

@@ -139,11 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="LengthOfLastWord.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="SearchInsertPosition.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="RemoveElement.h" />
     <ClInclude Include="SearchInsertPosition.h" />
   </ItemGroup>
