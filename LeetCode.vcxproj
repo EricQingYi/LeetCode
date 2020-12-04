@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="SearchInsertPosition.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RemoveElement.h" />
+    <ClInclude Include="SearchInsertPosition.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
