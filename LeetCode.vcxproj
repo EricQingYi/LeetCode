@@ -143,11 +143,13 @@
     <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="SearchInsertPosition.cpp" />
+    <ClCompile Include="SqrtX.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="RemoveElement.h" />
     <ClInclude Include="SearchInsertPosition.h" />
+    <ClInclude Include="SqrtX.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

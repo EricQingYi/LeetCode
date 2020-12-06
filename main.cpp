@@ -1,12 +1,12 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "LengthOfLastWord.h"
+#include "SqrtX.h"
 using namespace std;
 
 int main() {
-	string s = "ad 23d 421a2  ";
-	LengthOfLastWord sol;
-	cout << sol.lengthOfLastWord(s) << endl;
+	SqrtX sol;
+	cout << sol.mySqrt(27) << endl;
+	cout << sol.mySqrt(14) << endl;
 	return 0;
 }
