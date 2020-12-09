@@ -30,6 +30,9 @@
     <ClCompile Include="SqrtX.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IntersectionOfTwoLinkedLists.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RemoveElement.h">
@@ -42,6 +45,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="SqrtX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IntersectionOfTwoLinkedLists.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

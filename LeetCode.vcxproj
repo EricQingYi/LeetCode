@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="IntersectionOfTwoLinkedLists.cpp" />
     <ClCompile Include="LengthOfLastWord.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="main.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="SqrtX.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="RemoveElement.h" />
     <ClInclude Include="SearchInsertPosition.h" />
