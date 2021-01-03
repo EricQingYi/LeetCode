@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="canPlaceFlowers.cpp" />
     <ClCompile Include="IntersectionOfTwoLinkedLists.cpp" />
     <ClCompile Include="LengthOfLastWord.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
@@ -147,6 +148,7 @@
     <ClCompile Include="SqrtX.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="canPlaceFlowers.h" />
     <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="RemoveElement.h" />
