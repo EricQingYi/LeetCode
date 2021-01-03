@@ -8,14 +8,14 @@ bool CanPlaceFlowers::canPlaceFlowers(vector<int>& flowerbed, int n){
 			remain--;
 			flowerbed[0] = 1;
 		}
-		return remain == 0 ? true : false;
+		return remain > 0 ? false : true;
 	}
 	if (flowerbed[0] == 0 && flowerbed[1] == 0) {
 		remain--;
 		flowerbed[0] = 1;
 	}
 	if (size == 2) {
-		return remain == 0 ? true : false;
+		return remain > 0 ? false : true;
 	}
 	for (int pre = 0, current = 1, next = 2;;
 		pre = current, current = next, next++) {
@@ -31,5 +31,5 @@ bool CanPlaceFlowers::canPlaceFlowers(vector<int>& flowerbed, int n){
 			flowerbed[current] = 1;
 		}
 	}
-	return remain == 0 ? true : false;
+	return remain > 0 ? false : true;
 }
