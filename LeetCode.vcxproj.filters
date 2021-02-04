@@ -36,6 +36,9 @@
     <ClCompile Include="canPlaceFlowers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="findMaxAverage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RemoveElement.h">
@@ -54,6 +57,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="canPlaceFlowers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="findMaxAverage.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

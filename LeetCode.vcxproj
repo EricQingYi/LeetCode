@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="canPlaceFlowers.cpp" />
+    <ClCompile Include="findMaxAverage.cpp" />
     <ClCompile Include="IntersectionOfTwoLinkedLists.cpp" />
     <ClCompile Include="LengthOfLastWord.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
@@ -149,6 +150,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="canPlaceFlowers.h" />
+    <ClInclude Include="findMaxAverage.h" />
     <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="RemoveElement.h" />
