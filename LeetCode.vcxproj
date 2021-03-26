@@ -143,6 +143,7 @@
     <ClCompile Include="findMaxAverage.cpp" />
     <ClCompile Include="IntersectionOfTwoLinkedLists.cpp" />
     <ClCompile Include="LengthOfLastWord.cpp" />
+    <ClCompile Include="RemoveDuplicatesFromSortedList2.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="SearchInsertPosition.cpp" />
@@ -153,6 +154,7 @@
     <ClInclude Include="findMaxAverage.h" />
     <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="LengthOfLastWord.h" />
+    <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
     <ClInclude Include="RemoveElement.h" />
     <ClInclude Include="SearchInsertPosition.h" />
     <ClInclude Include="SqrtX.h" />
