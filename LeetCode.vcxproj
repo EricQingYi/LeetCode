@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="canPlaceFlowers.cpp" />
     <ClCompile Include="findMaxAverage.cpp" />
+    <ClCompile Include="IncreasingOrderSearchTree.cpp" />
     <ClCompile Include="IntersectionOfTwoLinkedLists.cpp" />
     <ClCompile Include="LengthOfLastWord.cpp" />
     <ClCompile Include="RemoveDuplicatesFromSortedList2.cpp" />
@@ -152,6 +153,7 @@
   <ItemGroup>
     <ClInclude Include="canPlaceFlowers.h" />
     <ClInclude Include="findMaxAverage.h" />
+    <ClInclude Include="IncreasingOrderSearchTree.h" />
     <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
     <ClInclude Include="LengthOfLastWord.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />

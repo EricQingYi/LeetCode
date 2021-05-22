@@ -42,6 +42,9 @@
     <ClCompile Include="RemoveDuplicatesFromSortedList2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IncreasingOrderSearchTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RemoveElement.h">
@@ -66,6 +69,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="RemoveDuplicatesFromSortedList2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IncreasingOrderSearchTree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
