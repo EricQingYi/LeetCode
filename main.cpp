@@ -1,14 +1,14 @@
 #include <iostream>
-#include <vector>
-#include <string>
-#include "canPlaceFlowers.h"
+#include "HappyNumber.h"
 using namespace std;
 
 int main() {
-	vector<int> vec1 = { 0,0 };
-	CanPlaceFlowers sol;
-	bool result = false;
-	result = sol.canPlaceFlowers(vec1, 2);
-	cout << result << endl;
+	HappyNumber sol;
+	cout << sol.isHappy(19) << endl;
+	/*
+	int a = 32;
+	int b = int(a / 10);
+	cout << b << endl;
+	*/
 	return 0;
 }
