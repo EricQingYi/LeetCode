@@ -150,6 +150,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="SearchInsertPosition.cpp" />
     <ClCompile Include="SqrtX.cpp" />
+    <ClCompile Include="StudentAttendanceRecord_I.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="canPlaceFlowers.h" />
@@ -162,6 +163,7 @@
     <ClInclude Include="RemoveElement.h" />
     <ClInclude Include="SearchInsertPosition.h" />
     <ClInclude Include="SqrtX.h" />
+    <ClInclude Include="StudentAttendanceRecord_I.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
