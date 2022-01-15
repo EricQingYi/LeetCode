@@ -1,14 +1,10 @@
 #include <iostream>
-#include "HappyNumber.h"
+#include "BinarySearch.h"
 using namespace std;
 
 int main() {
-	HappyNumber sol;
-	cout << sol.isHappy(19) << endl;
-	/*
-	int a = 32;
-	int b = int(a / 10);
-	cout << b << endl;
-	*/
+	BinarySearch sol;
+	vector<int> arr = { -2,3,6 };
+	cout << "Result:" << sol.search(arr, 3) << endl;
 	return 0;
 }

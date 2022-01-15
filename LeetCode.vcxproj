@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinarySearch.cpp" />
     <ClCompile Include="canPlaceFlowers.cpp" />
     <ClCompile Include="findMaxAverage.cpp" />
     <ClCompile Include="HappyNumber.cpp" />
@@ -153,6 +154,7 @@
     <ClCompile Include="StudentAttendanceRecord_I.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BinarySearch.h" />
     <ClInclude Include="canPlaceFlowers.h" />
     <ClInclude Include="findMaxAverage.h" />
     <ClInclude Include="HappyNumber.h" />
