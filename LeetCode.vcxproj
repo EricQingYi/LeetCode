@@ -142,6 +142,7 @@
     <ClCompile Include="BinarySearch.cpp" />
     <ClCompile Include="canPlaceFlowers.cpp" />
     <ClCompile Include="findMaxAverage.cpp" />
+    <ClCompile Include="FirstBadVersion.cpp" />
     <ClCompile Include="HappyNumber.cpp" />
     <ClCompile Include="IncreasingOrderSearchTree.cpp" />
     <ClCompile Include="IntersectionOfTwoLinkedLists.cpp" />
@@ -157,6 +158,7 @@
     <ClInclude Include="BinarySearch.h" />
     <ClInclude Include="canPlaceFlowers.h" />
     <ClInclude Include="findMaxAverage.h" />
+    <ClInclude Include="FirstBadVersion.h" />
     <ClInclude Include="HappyNumber.h" />
     <ClInclude Include="IncreasingOrderSearchTree.h" />
     <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
