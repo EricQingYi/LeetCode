@@ -1,10 +1,14 @@
 #include <iostream>
-#include "BinarySearch.h"
+#include "SquaresOfASortedArray.h"
 using namespace std;
 
 int main() {
-	BinarySearch sol;
-	vector<int> arr = { -2,3,6 };
-	cout << "Result:" << sol.search(arr, 3) << endl;
+	SquaresOfASortedArray sol;
+	vector<int> v = { -3,-1,0,2,4 };
+	sol.sortedSquares(v);
+	for(size_t i = 0; i < v.size(); ++i){
+		cout << v[i] << " ";
+	}
+	cout << endl;
 	return 0;
 }

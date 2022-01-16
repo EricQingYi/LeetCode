@@ -54,7 +54,7 @@
     <ClCompile Include="BinarySearch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FirstBadVersion.cpp">
+    <ClCompile Include="SquaresOfASortedArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -95,7 +95,7 @@
     <ClInclude Include="BinarySearch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="FirstBadVersion.h">
+    <ClInclude Include="SquaresOfASortedArray.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
