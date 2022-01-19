@@ -139,35 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BinarySearch.cpp" />
-    <ClCompile Include="canPlaceFlowers.cpp" />
-    <ClCompile Include="findMaxAverage.cpp" />
-    <ClCompile Include="HappyNumber.cpp" />
-    <ClCompile Include="IncreasingOrderSearchTree.cpp" />
-    <ClCompile Include="IntersectionOfTwoLinkedLists.cpp" />
-    <ClCompile Include="LengthOfLastWord.cpp" />
-    <ClCompile Include="RemoveDuplicatesFromSortedList2.cpp" />
-    <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="SearchInsertPosition.cpp" />
-    <ClCompile Include="SqrtX.cpp" />
+    <ClCompile Include="ReverseWordsInAStringIII.cpp" />
     <ClCompile Include="SquaresOfASortedArray.cpp" />
-    <ClCompile Include="StudentAttendanceRecord_I.cpp" />
+    <ClCompile Include="TwoSumII.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BinarySearch.h" />
-    <ClInclude Include="canPlaceFlowers.h" />
-    <ClInclude Include="findMaxAverage.h" />
-    <ClInclude Include="HappyNumber.h" />
-    <ClInclude Include="IncreasingOrderSearchTree.h" />
-    <ClInclude Include="IntersectionOfTwoLinkedLists.h" />
-    <ClInclude Include="LengthOfLastWord.h" />
-    <ClInclude Include="RemoveDuplicatesFromSortedList2.h" />
-    <ClInclude Include="RemoveElement.h" />
-    <ClInclude Include="SearchInsertPosition.h" />
-    <ClInclude Include="SqrtX.h" />
+    <ClInclude Include="ReverseWordsInAStringIII.h" />
     <ClInclude Include="SquaresOfASortedArray.h" />
-    <ClInclude Include="StudentAttendanceRecord_I.h" />
+    <ClInclude Include="TwoSumII.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
