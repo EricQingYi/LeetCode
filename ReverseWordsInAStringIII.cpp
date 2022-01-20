@@ -19,7 +19,7 @@ string ReverseWordsInAStringIII::reverseWords(string s){
         }
     }
     temp = "";
-    for (; ;) {
+    while(true){
         temp = temp + ss.top();
         ss.pop();
         if (!ss.empty())
