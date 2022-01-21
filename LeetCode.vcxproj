@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="IsUnique_LCCI.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MiddleOfTheLinkedList.cpp" />
     <ClCompile Include="RemoveNthNodeFromEndOfList.cpp" />
@@ -147,6 +148,7 @@
     <ClCompile Include="TwoSumII.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="IsUnique_LCCI.h" />
     <ClInclude Include="MiddleOfTheLinkedList.h" />
     <ClInclude Include="RemoveNthNodeFromEndOfList.h" />
     <ClInclude Include="ReverseWordsInAStringIII.h" />
