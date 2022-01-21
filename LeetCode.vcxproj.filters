@@ -30,6 +30,9 @@
     <ClCompile Include="MiddleOfTheLinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RemoveNthNodeFromEndOfList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SquaresOfASortedArray.h">
@@ -42,6 +45,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="MiddleOfTheLinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveNthNodeFromEndOfList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
