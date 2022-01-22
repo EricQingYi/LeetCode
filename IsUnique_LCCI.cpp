@@ -1,8 +1,8 @@
 #include "IsUnique_LCCI.h"
-#include <cstring>
+#include <algorithm>
 bool IsUnique_LCCI::isUnique(string astr){
     bool* p_table = new bool[128];
-    memset(p_table, false, sizeof(*p_table) * 128);
+    fill_n(p_table, 128, false);
     bool result = false;
     for (size_t i = 0; i < astr.length(); ++i) {
         if (!p_table[astr[i]])
