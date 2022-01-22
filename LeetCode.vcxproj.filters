@@ -39,6 +39,9 @@
     <ClCompile Include="CheckPermutationLCCI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StringToURL_LCCI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SquaresOfASortedArray.h">
@@ -60,6 +63,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="CheckPermutationLCCI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StringToURL_LCCI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

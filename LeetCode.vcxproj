@@ -146,6 +146,7 @@
     <ClCompile Include="RemoveNthNodeFromEndOfList.cpp" />
     <ClCompile Include="ReverseWordsInAStringIII.cpp" />
     <ClCompile Include="SquaresOfASortedArray.cpp" />
+    <ClCompile Include="StringToURL_LCCI.cpp" />
     <ClCompile Include="TwoSumII.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -155,6 +156,7 @@
     <ClInclude Include="RemoveNthNodeFromEndOfList.h" />
     <ClInclude Include="ReverseWordsInAStringIII.h" />
     <ClInclude Include="SquaresOfASortedArray.h" />
+    <ClInclude Include="StringToURL_LCCI.h" />
     <ClInclude Include="TwoSumII.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
