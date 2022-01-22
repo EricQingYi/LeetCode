@@ -36,6 +36,9 @@
     <ClCompile Include="IsUnique_LCCI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CheckPermutationLCCI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SquaresOfASortedArray.h">
@@ -54,6 +57,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="IsUnique_LCCI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckPermutationLCCI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
