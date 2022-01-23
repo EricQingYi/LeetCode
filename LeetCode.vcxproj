@@ -143,6 +143,7 @@
     <ClCompile Include="IsUnique_LCCI.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MiddleOfTheLinkedList.cpp" />
+    <ClCompile Include="PalindromePermutationLCCI.cpp" />
     <ClCompile Include="RemoveNthNodeFromEndOfList.cpp" />
     <ClCompile Include="ReverseWordsInAStringIII.cpp" />
     <ClCompile Include="SquaresOfASortedArray.cpp" />
@@ -153,6 +154,7 @@
     <ClInclude Include="CheckPermutationLCCI.h" />
     <ClInclude Include="IsUnique_LCCI.h" />
     <ClInclude Include="MiddleOfTheLinkedList.h" />
+    <ClInclude Include="PalindromePermutationLCCI.h" />
     <ClInclude Include="RemoveNthNodeFromEndOfList.h" />
     <ClInclude Include="ReverseWordsInAStringIII.h" />
     <ClInclude Include="SquaresOfASortedArray.h" />
