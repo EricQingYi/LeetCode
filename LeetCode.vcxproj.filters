@@ -45,6 +45,9 @@
     <ClCompile Include="PalindromePermutationLCCI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="OneAwayLCCI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SquaresOfASortedArray.h">
@@ -72,6 +75,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="PalindromePermutationLCCI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OneAwayLCCI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

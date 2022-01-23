@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	cout << 'a' << endl;
-	printf("%d %d", 'a','b');
+	size_t a = 3, b = 2;
+	cout << max(a,b) - min(a,b) << endl;
 	return 0;
 }
