@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CheckPermutationLCCI.cpp" />
+    <ClCompile Include="CompressStringLCCI.cpp" />
     <ClCompile Include="IsUnique_LCCI.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MiddleOfTheLinkedList.cpp" />
@@ -153,6 +154,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CheckPermutationLCCI.h" />
+    <ClInclude Include="CompressStringLCCI.h" />
     <ClInclude Include="IsUnique_LCCI.h" />
     <ClInclude Include="MiddleOfTheLinkedList.h" />
     <ClInclude Include="OneAwayLCCI.h" />

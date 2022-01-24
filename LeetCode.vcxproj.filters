@@ -48,6 +48,9 @@
     <ClCompile Include="OneAwayLCCI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CompressStringLCCI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SquaresOfASortedArray.h">
@@ -78,6 +81,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="OneAwayLCCI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CompressStringLCCI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

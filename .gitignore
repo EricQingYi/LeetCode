@@ -338,3 +338,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/LeetCode_Py/LeetCode_Py/LeetCode_Py.sln
+/LeetCode_Py/LeetCode_Py/LeetCode_Py.pyproj
+/LeetCode_Py/LeetCode_Py/LeetCode_Py.py

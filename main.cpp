@@ -1,9 +1,9 @@
 #include <iostream>
-#include <algorithm>
+#include "CompressStringLCCI.h"
 using namespace std;
 
 int main() {
-	size_t a = 3, b = 2;
-	cout << max(a,b) - min(a,b) << endl;
+	CompressStringLCCI sol;
+	cout << sol.compressString("aabcccccaa") << endl;
 	return 0;
 }
