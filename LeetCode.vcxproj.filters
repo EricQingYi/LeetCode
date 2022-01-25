@@ -18,72 +18,12 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SquaresOfASortedArray.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="TwoSumII.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ReverseWordsInAStringIII.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="MiddleOfTheLinkedList.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="RemoveNthNodeFromEndOfList.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="IsUnique_LCCI.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CheckPermutationLCCI.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="StringToURL_LCCI.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PalindromePermutationLCCI.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="OneAwayLCCI.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CompressStringLCCI.cpp">
+    <ClCompile Include="RotateMatrixLCCI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="SquaresOfASortedArray.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="TwoSumII.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ReverseWordsInAStringIII.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="MiddleOfTheLinkedList.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="RemoveNthNodeFromEndOfList.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="IsUnique_LCCI.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="CheckPermutationLCCI.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="StringToURL_LCCI.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="PalindromePermutationLCCI.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="OneAwayLCCI.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="CompressStringLCCI.h">
+    <ClInclude Include="RotateMatrixLCCI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -139,31 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CheckPermutationLCCI.cpp" />
-    <ClCompile Include="CompressStringLCCI.cpp" />
-    <ClCompile Include="IsUnique_LCCI.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="MiddleOfTheLinkedList.cpp" />
-    <ClCompile Include="OneAwayLCCI.cpp" />
-    <ClCompile Include="PalindromePermutationLCCI.cpp" />
-    <ClCompile Include="RemoveNthNodeFromEndOfList.cpp" />
-    <ClCompile Include="ReverseWordsInAStringIII.cpp" />
-    <ClCompile Include="SquaresOfASortedArray.cpp" />
-    <ClCompile Include="StringToURL_LCCI.cpp" />
-    <ClCompile Include="TwoSumII.cpp" />
+    <ClCompile Include="RotateMatrixLCCI.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CheckPermutationLCCI.h" />
-    <ClInclude Include="CompressStringLCCI.h" />
-    <ClInclude Include="IsUnique_LCCI.h" />
-    <ClInclude Include="MiddleOfTheLinkedList.h" />
-    <ClInclude Include="OneAwayLCCI.h" />
-    <ClInclude Include="PalindromePermutationLCCI.h" />
-    <ClInclude Include="RemoveNthNodeFromEndOfList.h" />
-    <ClInclude Include="ReverseWordsInAStringIII.h" />
-    <ClInclude Include="SquaresOfASortedArray.h" />
-    <ClInclude Include="StringToURL_LCCI.h" />
-    <ClInclude Include="TwoSumII.h" />
+    <ClInclude Include="RotateMatrixLCCI.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
