@@ -141,10 +141,12 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="RotateMatrixLCCI.cpp" />
+    <ClCompile Include="StringRotationLCCI.cpp" />
     <ClCompile Include="ZeroMatrixLCCI.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RotateMatrixLCCI.h" />
+    <ClInclude Include="StringRotationLCCI.h" />
     <ClInclude Include="ZeroMatrixLCCI.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

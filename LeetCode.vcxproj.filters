@@ -24,12 +24,18 @@
     <ClCompile Include="ZeroMatrixLCCI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StringRotationLCCI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RotateMatrixLCCI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ZeroMatrixLCCI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StringRotationLCCI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
