@@ -27,6 +27,9 @@
     <ClCompile Include="StringRotationLCCI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RemoveDuplicateNodeLCCI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RotateMatrixLCCI.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="StringRotationLCCI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveDuplicateNodeLCCI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
