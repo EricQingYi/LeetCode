@@ -1,6 +1,5 @@
 #include <iostream>
-#include <algorithm>
-#include "RemoveDuplicateNodeLCCI.h"
+#include "KthNodeFromEndOfList_LCCI.h"
 using namespace std;
 
 int main() {
@@ -15,10 +14,10 @@ int main() {
 	ListNode* e = new ListNode(2);
 	ListNode* f = new ListNode(3);
 	*/
-	RemoveDuplicateNodeLCCI sol;
+	KthNodeFromEndOfList_LCCI sol;
 	ListNode* a = new ListNode(1);
 	ListNode* b = new ListNode(2);
-	ListNode* c = new ListNode(3);
+	ListNode* c = new ListNode(5);
 	ListNode* d = new ListNode(3);
 	ListNode* e = new ListNode(2);
 	ListNode* f = new ListNode(1);
@@ -27,10 +26,12 @@ int main() {
 	c->next = d;
 	d->next = e;
 	e->next = f;
-	ListNode* p_sLh = sol.removeDuplicateNodes(a);
+	cout << sol.kthToLast(a, 6) << endl;
+	/*
 	for (ListNode* p_sL = p_sLh; p_sL != nullptr; p_sL = p_sL->next) {
 		cout << p_sL->val << " ";
 	}
 	cout << endl;
+	*/
 	return 0;
 }

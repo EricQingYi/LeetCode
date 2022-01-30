@@ -18,30 +18,12 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RotateMatrixLCCI.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ZeroMatrixLCCI.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="StringRotationLCCI.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="RemoveDuplicateNodeLCCI.cpp">
+    <ClCompile Include="KthNodeFromEndOfList_LCCI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="RotateMatrixLCCI.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ZeroMatrixLCCI.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="StringRotationLCCI.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="RemoveDuplicateNodeLCCI.h">
+    <ClInclude Include="KthNodeFromEndOfList_LCCI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

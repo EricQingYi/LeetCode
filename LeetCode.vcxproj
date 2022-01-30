@@ -139,17 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="KthNodeFromEndOfList_LCCI.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="RemoveDuplicateNodeLCCI.cpp" />
-    <ClCompile Include="RotateMatrixLCCI.cpp" />
-    <ClCompile Include="StringRotationLCCI.cpp" />
-    <ClCompile Include="ZeroMatrixLCCI.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="RemoveDuplicateNodeLCCI.h" />
-    <ClInclude Include="RotateMatrixLCCI.h" />
-    <ClInclude Include="StringRotationLCCI.h" />
-    <ClInclude Include="ZeroMatrixLCCI.h" />
+    <ClInclude Include="KthNodeFromEndOfList_LCCI.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
