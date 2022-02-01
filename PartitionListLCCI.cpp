@@ -38,5 +38,7 @@ ListNode* PartitionListLCCI::partition(ListNode* head, int x){
         if (p_cur == NULL)
             break;
     }
-    return p_fHead->next;
+    head = p_fHead->next;
+    delete p_fHead;
+    return head;
 }
