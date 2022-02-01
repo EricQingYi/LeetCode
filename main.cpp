@@ -1,5 +1,5 @@
 #include <iostream>
-#include "KthNodeFromEndOfList_LCCI.h"
+#include "PartitionListLCCI.h"
 using namespace std;
 
 int main() {
@@ -14,7 +14,7 @@ int main() {
 	ListNode* e = new ListNode(2);
 	ListNode* f = new ListNode(3);
 	*/
-	KthNodeFromEndOfList_LCCI sol;
+	PartitionListLCCI sol;
 	ListNode* a = new ListNode(1);
 	ListNode* b = new ListNode(2);
 	ListNode* c = new ListNode(5);
@@ -26,12 +26,9 @@ int main() {
 	c->next = d;
 	d->next = e;
 	e->next = f;
-	cout << sol.kthToLast(a, 6) << endl;
-	/*
-	for (ListNode* p_sL = p_sLh; p_sL != nullptr; p_sL = p_sL->next) {
+	for (ListNode* p_sL = sol.partition(a,3); p_sL != nullptr; p_sL = p_sL->next) {
 		cout << p_sL->val << " ";
 	}
 	cout << endl;
-	*/
 	return 0;
 }

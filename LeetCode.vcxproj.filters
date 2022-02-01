@@ -24,12 +24,18 @@
     <ClCompile Include="DeleteMiddleNodeLCCI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PartitionListLCCI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="KthNodeFromEndOfList_LCCI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="DeleteMiddleNodeLCCI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PartitionListLCCI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

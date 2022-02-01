@@ -142,10 +142,12 @@
     <ClCompile Include="DeleteMiddleNodeLCCI.cpp" />
     <ClCompile Include="KthNodeFromEndOfList_LCCI.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PartitionListLCCI.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DeleteMiddleNodeLCCI.h" />
     <ClInclude Include="KthNodeFromEndOfList_LCCI.h" />
+    <ClInclude Include="PartitionListLCCI.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
