@@ -18,24 +18,12 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="KthNodeFromEndOfList_LCCI.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="DeleteMiddleNodeLCCI.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PartitionListLCCI.cpp">
+    <ClCompile Include="SumListsLCCI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="KthNodeFromEndOfList_LCCI.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="DeleteMiddleNodeLCCI.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="PartitionListLCCI.h">
+    <ClInclude Include="SumListsLCCI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
