@@ -140,9 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PalindromeLinkedList_LCCI.cpp" />
     <ClCompile Include="SumListsLCCI.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="PalindromeLinkedList_LCCI.h" />
     <ClInclude Include="SumListsLCCI.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

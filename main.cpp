@@ -1,5 +1,5 @@
 #include <iostream>
-#include "SumListsLCCI.h"
+#include "PalindromeLinkedList_LCCI.h"
 using namespace std;
 
 int main() {
@@ -14,19 +14,20 @@ int main() {
 	ListNode* e = new ListNode(2);
 	ListNode* f = new ListNode(3);
 	*/
-	SumListsLCCI sol;
-	ListNode* a = new ListNode(9);
-	ListNode* b = new ListNode(9);
-	ListNode* c = new ListNode(9);
-	ListNode* d = new ListNode(9);
-	ListNode* e = new ListNode(9);
+	PalindromeLinkedList_LCCI sol;
+	ListNode* a = new ListNode(1);
+	ListNode* b = new ListNode(1);
+	ListNode* c = new ListNode(2);
+	ListNode* d = new ListNode(1);
+	ListNode* e = new ListNode(1);
 	ListNode* f = new ListNode(1);
 	a->next = b;
-	b->next = c;
-	d->next = e;
-	for (ListNode* p_sL = sol.addTwoNumbers(a, d); p_sL != nullptr; p_sL = p_sL->next) {
+	cout << sol.isPalindrome(a) << endl;
+	/*
+	for (ListNode* p_sL = sol.reverseList(d); p_sL != nullptr; p_sL = p_sL->next) {
 		cout << p_sL->val << " ";
 	}
 	cout << endl;
+	*/
 	return 0;
 }

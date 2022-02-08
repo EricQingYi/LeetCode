@@ -21,9 +21,15 @@
     <ClCompile Include="SumListsLCCI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PalindromeLinkedList_LCCI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SumListsLCCI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromeLinkedList_LCCI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
