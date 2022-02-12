@@ -139,11 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="LinkedListCycleLCCI.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="PalindromeLinkedList_LCCI.cpp" />
     <ClCompile Include="SumListsLCCI.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="LinkedListCycleLCCI.h" />
     <ClInclude Include="PalindromeLinkedList_LCCI.h" />
     <ClInclude Include="SumListsLCCI.h" />
   </ItemGroup>
