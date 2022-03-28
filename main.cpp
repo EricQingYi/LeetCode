@@ -1,15 +1,15 @@
 #include <iostream>
-#include "MinStack_LCCI.h"
+#include "StackOfPlatesLCCI.h"
 using namespace std;
 
 int main() {
-    MinStack sol;
-    sol.push(3);
-    cout << "Min:"<< sol.getMin()<<' '<<"Top:"<< sol.top()<< endl;
+    StackOfPlates sol(2);
     sol.push(1);
-    cout << "Min:"<< sol.getMin()<<' '<<"Top:"<< sol.top()<< endl;
     sol.push(2);
-    cout << "Min:"<< sol.getMin()<<' '<<"Top:"<< sol.top()<< endl;
-    
+    sol.push(3);
+    cout << sol.popAt(0) << ' ';
+    cout << sol.popAt(0) << ' ';
+    cout << sol.popAt(0) << ' ';
+    cout << sol.popAt(0) << endl;
     return 0;
 }
