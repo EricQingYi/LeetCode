@@ -1,15 +1,16 @@
 #include <iostream>
-#include "StackOfPlatesLCCI.h"
+#include "ImplementQueueUsingStacksLCCI.h"
 using namespace std;
 
 int main() {
-    StackOfPlates sol(2);
+    MyQueue sol;
     sol.push(1);
     sol.push(2);
     sol.push(3);
-    cout << sol.popAt(0) << ' ';
-    cout << sol.popAt(0) << ' ';
-    cout << sol.popAt(0) << ' ';
-    cout << sol.popAt(0) << endl;
+    cout << sol.peek() << ' ';
+    cout << sol.pop() << ' ';
+    cout << sol.peek() << ' ';
+    sol.push(4);
+    cout << sol.peek() << endl;
     return 0;
 }
