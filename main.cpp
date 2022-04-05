@@ -1,16 +1,12 @@
 #include <iostream>
-#include "ImplementQueueUsingStacksLCCI.h"
-using namespace std;
+#include "SortOfStacksLCCI.h"
 
 int main() {
-    MyQueue sol;
-    sol.push(1);
-    sol.push(2);
-    sol.push(3);
-    cout << sol.peek() << ' ';
-    cout << sol.pop() << ' ';
-    cout << sol.peek() << ' ';
-    sol.push(4);
-    cout << sol.peek() << endl;
-    return 0;
+	SortedStack sol;
+	sol.push(1);
+	sol.push(2);
+	std::cout<< sol.peek() << ' ';
+	sol.pop();
+	std::cout<< sol.peek() << std::endl; 
+	return 0;
 }
