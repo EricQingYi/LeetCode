@@ -14,7 +14,7 @@ class AnimalShelf {
 public:
     AnimalShelf();
     
-    void enqueue(std::vector<int> animal);
+    void enqueue(std::vector<int> &animal);
     
     std::vector<int> dequeueAny();
     

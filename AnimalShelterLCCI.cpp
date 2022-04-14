@@ -8,7 +8,7 @@ AnimalShelf::AnimalShelf(){
     p_bDog = NULL;
 }
     
-void AnimalShelf::enqueue(std::vector<int> animal) {
+void AnimalShelf::enqueue(std::vector<int> &animal) {
     ani::ListNode* p_temp = NULL;
     if(animal[1] == 0){// animal is cat.
         if(p_fCat == NULL){// cats queue is empty.
