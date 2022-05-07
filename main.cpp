@@ -1,6 +1,5 @@
 #include <iostream>
 #include "LegalBinarySearchTreeLCCI.hpp"
-
 int main() {
   Solution sol;
   // TreeNode* p_tn = new TreeNode(3);
