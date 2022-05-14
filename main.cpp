@@ -1,5 +1,5 @@
 #include <iostream>
-#include "LegalBinarySearchTreeLCCI.hpp"
+#include "FirstCommonAncestorLCCI.hpp"
 int main() {
   Solution sol;
   // TreeNode* p_tn = new TreeNode(3);
@@ -13,6 +13,6 @@ int main() {
   p_tn->right = new TreeNode(4);
   p_tn->right->left = new TreeNode(3);
   p_tn->right->right = new TreeNode(5);
-  std::cout << sol.isValidBST(p_tn) << std::endl;
+  std::cout << sol.lowestCommonAncestor(p_tn, p_tn->right, p_tn->right->right)->val << std::endl;
   return 0;
 }
