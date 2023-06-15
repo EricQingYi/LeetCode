@@ -1,9 +1,9 @@
 #include <iostream>
-#include "BinaryNumberToStringLCCI.hpp"
+#include "RansomNote.h"
 
 int main()
 {
-  Solution sol;
-  std::cout << sol.printBin(0.625) << std::endl;
+  RansomNote sol;
+  std::cout << sol.canConstruct(std::string("aacb"), std::string("aabbcc")) << std::endl;
   return 0;
 }
